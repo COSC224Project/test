@@ -1,0 +1,4 @@
+git log
+git branch testbranch
+get branch -d testbranch
+git log
